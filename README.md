@@ -24,3 +24,7 @@ you'll need to swap all LCtrl's and RCtrl's.
 
 Wrong direction? [Mac Keyboard Fixer](https://github.com/richard4339/Mac-Keyboard-Fixer)
 will remap a *Mac* keyboard to feel more like *Windows*.
+
+## I want more!
+
+Check out the [road map](ROADMAP.md) for thoughts on where to go next.
