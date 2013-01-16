@@ -27,4 +27,4 @@ will remap a *Mac* keyboard to feel more like *Windows*.
 
 ## I want more!
 
-Check out the [road map](MacKeyboard/ROADMAP.md) for thoughts on where to go next.
+Check out the [road map](https://github.com/eitchbar/MacKeyboard/blob/master/ROADMAP.md) for thoughts on where to go next.
