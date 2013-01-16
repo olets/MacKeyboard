@@ -1,0 +1,18 @@
+A Mac mapping for the Dell Mini 10v keyboard
+Changes the behavior of the Alt, Windows, and Contextual Menu keys
+Adds behaviors to one of the Ctrl keys
+Developed and tested only in Windows 7 on a Dell 1011 (Mini 10v)
+
+USE: This is an AutoHotKey script (.ahk), which needs AutoHotKey to run. I recommend
+adding MacKeyboard to the Startup items.
+
+NOTE: I mouse/trackpad with my right hand, and use the left-hand Ctrl key
+for right clicking. If you want to use the right-hand Ctrl key for right clicking
+you'll need to swap all LCtrl's and RCtrl's.
+
+LIMITATIONS:
+- Alt-Tab (Mac "Command-Tab") is now mapped to Windows-Tab and Contextual Menu-Tab
+  (shouldn't be an issue for small keyboards, where the Windows and Contextual Menu
+  buttons are close to the thumbs, and Alt is narrow)
+- Left and right arrow keys escape (Shift-)Alt-Tab instead of changing the selection.
+  (see end of file for my latest attempt)
